@@ -1,0 +1,10 @@
+[project]
+name = "message_formatter"
+version = "0.1.0"
+description = "A fun message formatter using Python decorators"
+authors = ["Mudassir Abrar <mudassarabrarr@gmailcom>"]
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
